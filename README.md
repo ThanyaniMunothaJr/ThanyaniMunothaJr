@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a student pursuing a BSc degree majoring in Mathematics and Computational & Applied Mathematics. It is my first time going deep into the coding world and I hope to complete a few projects while learning new things!  
+I am a BSc graduate with majors in Mathematics and Computational & Applied Mathematics. It is my first time going deep into the coding world and I hope to complete a few projects while learning new things!  
 📫 Wanna reach out to me? 📧 [Email Me](mailto:thanyanijuniormunotha@gmail.com)  
 Also check out my [LinkedIn](https://www.linkedin.com/in/thanyani-munotha-4a3aa3274/) for some cool content.
