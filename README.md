@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a BSc graduand with majors in Mathematics and Computational & Applied Mathematics. It is my first time going deep into the coding world and I hope to complete a few projects while learning new things!  
+Recenlty completed a BSc degree in Mathematics and Computational & Applied Mathematics. I am based in Johannesburg, South Africa. If you are in the city, you can spot me in the collaborative spaces for mathematical sciences.   
 📫 Wanna reach out to me? 📧 [Email Me](mailto:thanyanijuniormunotha@gmail.com)  
 Also check out my [LinkedIn](https://www.linkedin.com/in/thanyani-munotha-4a3aa3274/) for some cool content.
