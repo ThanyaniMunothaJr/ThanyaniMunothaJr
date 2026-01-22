@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Recenlty completed a BSc degree in Mathematics and Computational & Applied Mathematics. I am based in Johannesburg, South Africa. Looking to build projects in data analysis, mathematical and financial modelling. If you are an aspiring data scientist, quant or investment analyst hmu, let's collaborate in projects to build our portfolios. In addition I enjoy reading and mastering topics in pure mathematics specifically Real and Functional analysis, a strange hobby I know but what is the point of advanced mathematics if you cannot have fun with it? Let's use mathematics for good and enjoy it while we're at it.😄
+Recenlty completed a BSc degree in Mathematics and Computational & Applied Mathematics. I am based in Johannesburg, South Africa. Looking to build projects in data analysis, mathematical and financial modelling. If you are an aspiring data scientist, quant or investment analyst hmu, let's collaborate in projects to build our portfolios. In addition I enjoy reading and mastering topics in pure mathematics, specifically Real and Functional analysis. A strange hobby I know but then again what is the point of advanced mathematics if you cannot have fun with it? Let's use mathematics for good and enjoy it while we're at it.😄
 📫 Wanna reach out to me? 📧 [Email Me](mailto:thanyanijuniormunotha@gmail.com)  
 Also check out my [LinkedIn](https://www.linkedin.com/in/thanyani-munotha-4a3aa3274/) for some cool content.
